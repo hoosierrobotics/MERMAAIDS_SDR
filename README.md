@@ -6,6 +6,7 @@ Read the Directions Below to get the plugins to work
 ###########################################
 # Frequency Scanner
 ###########################################
+
 To get the Frequency Scanner plugin running: 
   - Copy "SDRSharp.FrequencyScanner.dll" into the SDR Sharp "Plugins" folder
   - Copy a line of code to the "Plugins.xml" file which is one of the SDR Sharp files
@@ -21,7 +22,6 @@ To get the Frequency Scanner plugin running:
 ###########################################
 # LevelMeter
 ###########################################
-
 To get the LevelMeter plugin running: 
   - Copy "SDRSharp.LevelMeter.dll" and "SDRSharp.LevelMeter.xml" into the SDR Sharp “Plugins” folder
   - Copy a line of code to the “Plugins.xml” file which is one of the SDR Sharp files
