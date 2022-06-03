@@ -12,9 +12,7 @@ To get the Frequency Scanner plugin running:
   - Copy a line of code to the "Plugins.xml" file which is one of the SDR Sharp files
       - Edit Plugins.xml
       - Goto <sharpPlugins> section and add one line as described below:
-  
         <add key="Frequency Scanner" value="SDRSharp.FrequencyScanner.FrequencyScannerPlugin,SDRSharp.FrequencyScanner" />
-  
   - Restart SDR Sharp
   - Top left hamburger icon shows all available plugins, click on "Frequency Scanner"
 
