@@ -1,2 +1,3 @@
 # MERMAAIDS_SDR
-Frequency Scanner &amp; Level Meter Plugins for SDR Sharp
+Frequency Scanner & Level Meter Plugins for SDR Sharp
+
