@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OptDat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Unit>dB</Unit>
+  <SMeterEnable>true</SMeterEnable>
+  <ShowPopupOnStartup>false</ShowPopupOnStartup>
+  <IsEnabled>true</IsEnabled>
+  <Mode>0</Mode>
+  <GaugeLevelMax>0</GaugeLevelMax>
+  <GaugeLevelMin>-140</GaugeLevelMin>
+</OptDat>
