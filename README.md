@@ -8,7 +8,7 @@ First make sure that Microsoft .Net 5.0 is downloaded on your computer. If it is
 
 Run SDRSharp.exe and set the source to "RTL-SDR (USB)". Press Play to begin using SDRSharp. 
 
-If SDR Sharp does not work, follow the instructions found here to download SDR Sharp from their own website. https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
+If SDR Sharp does not work, follow the instructions found here to download SDR Sharp from their own website instead. https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
 
 
 Frequency Scanner & LevelMeter Plugins for SDR Sharp
