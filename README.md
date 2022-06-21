@@ -8,6 +8,8 @@ Read the directions below to start SDR Sharp and get its plugins.
 
 First make sure that Microsoft .Net 5.0 is downloaded on your computer. If it is not, then go to https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-5.0.401-windows-x86-installer so that it can be downloaded. After it downloads, run the installer and follow its directions.
 
+Download the files from this GitHub by pressing the green code button and downloading the zip file. After it downloads, extract the files. Then make sure that your RTL-SDR is plugged in. 
+
 Run SDRSharp.exe and set the source to "RTL-SDR (USB)". Press Play to begin using SDRSharp. 
 
 If SDR Sharp does not work, follow the instructions found here to download SDR Sharp from their own website instead. https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
