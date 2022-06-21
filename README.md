@@ -26,10 +26,10 @@ Read the Directions Below to get the plugins to work
 ###########################################
 
 To get the Frequency Scanner plugin running: 
-  - Copy "SDRSharp.FrequencyScanner.dll" into the SDR Sharp "Plugins" folder
+  - Move "SDRSharp.FrequencyScanner.dll" into the SDR Sharp "Plugins" folder
   - Copy a line of code to the "Plugins.xml" file which is one of the SDR Sharp files
       - Edit "Plugins.xml"
-      - Goto \<sharpPlugins> section and add one line as described below (if there is a backslash in front of the "<" in the code below, don't include it):
+      - Go to \<sharpPlugins> section and add the line of code as shown below (if there is a backslash in front of the "<" in the code below, don't include it):
   
         \<add key="Frequency Scanner" value="SDRSharp.FrequencyScanner.FrequencyScannerPlugin,SDRSharp.FrequencyScanner" />
   
@@ -42,10 +42,10 @@ To get the Frequency Scanner plugin running:
 ###########################################
 
 To get the LevelMeter plugin running: 
-  - Copy "SDRSharp.LevelMeter.dll" and "SDRSharp.LevelMeter.xml" into the SDR Sharp “Plugins” folder
+  - Move "SDRSharp.LevelMeter.dll" and "SDRSharp.LevelMeter.xml" into the SDR Sharp “Plugins” folder
   - Copy a line of code to the “Plugins.xml” file which is one of the SDR Sharp files
       - Edit "Plugins.xml"
-      - Goto \<sharpPlugins> section and add one line as described below (if there is a backslash in front of the "<" in the code below, don't include it):
+      - Go to \<sharpPlugins> section and add the line of code as shown below (if there is a backslash in front of the "<" in the code below, don't include it):
   
         \<add key="LevelMeter" value="SDRSharp.LevelMeter.LevelMeterPlugin,SDRSharp.LevelMeter" />
   
