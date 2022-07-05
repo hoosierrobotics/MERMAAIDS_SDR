@@ -12,8 +12,7 @@ Download the files from this GitHub by pressing the green code button and downlo
 
 Double click on install-rtlsdr.bat which will download the correct drivers and the files rtlsdr.dll and zadig.exe into the folder. Then make sure that your RTL-SDR is plugged in. 
 
-
-
+...
 
 In the folder where you extracted the sdrsharp files find the file called zadig.exe. Right click this file and select "Run as administrator".
 
@@ -27,8 +26,7 @@ It needs to install the WinUSB driver, so also ensure that WinUSB is selected in
 
 Click Replace Driver. On some PC's you might get a warning that the publisher cannot be verified, but just accept it by clicking on "Install this driver software anyway". This will install the drivers necessary to run the dongle as a software defined radio.
 
-
-
+...
 
 Run SDRSharp.exe. Then in the middle left of the screen, set the source to "RTL-SDR (USB)". Click on the Gear Icon (Configure Source) and set the RF Gain maybe about a quarter of the way up. You can change this later to get a better or clearer signal. Press the Play button to begin using SDRSharp. 
 
