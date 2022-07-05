@@ -38,7 +38,7 @@ If SDR Sharp does not work, follow the instructions found here to download SDR S
 ###########################################
 
 To get the Frequency Scanner plugin running: 
-  - Move "SDRSharp.FrequencyScanner.dll" into the SDR Sharp "Plugins" folder
+  - Copy "SDRSharp.FrequencyScanner.dll" into the SDR Sharp "Plugins" folder
   - Copy a line of code to the "Plugins.xml" file which is one of the SDR Sharp files
       - Edit "Plugins.xml"
       - Go to \<sharpPlugins> section and add the line of code as shown below (if there is a backslash in front of the "<" in the code below, don't include it):
@@ -54,7 +54,7 @@ To get the Frequency Scanner plugin running:
 ###########################################
 
 To get the LevelMeter plugin running: 
-  - Move "SDRSharp.LevelMeter.dll" and "SDRSharp.LevelMeter.xml" into the SDR Sharp “Plugins” folder
+  - Copy "SDRSharp.LevelMeter.dll" and "SDRSharp.LevelMeter.xml" into the SDR Sharp “Plugins” folder
   - Copy a line of code to the “Plugins.xml” file which is one of the SDR Sharp files
       - Edit "Plugins.xml"
       - Go to \<sharpPlugins> section and add the line of code as shown below (if there is a backslash in front of the "<" in the code below, don't include it):
@@ -64,7 +64,7 @@ To get the LevelMeter plugin running:
   - Restart SDR Sharp
   - Top left hamburger icon shows all available plugins, click on "LevelMeter"
 
-Take a look to the config file "SDRSharp.LevelMeter.xml" if you like to change the default settings (needs to restart SDR#)
+It is not necessary, but if you would like to change the default settings take a look to the config file "SDRSharp.LevelMeter.xml" (needs to restart SDR#).
  
 Source code is available at https://subversion.assembla.com/svn/sdrsoft/levelmeter
 
